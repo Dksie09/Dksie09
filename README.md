@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dakshi</h1>
-<h3 align="center">A passionate ML/AI engineer</h3>
+<h3 align="center">A passionate AI/ML engineer</h3>
 
 
 
