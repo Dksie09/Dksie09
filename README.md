@@ -1,9 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dakshi</h1>
 <h3 align="center">A passionate AI/ ML engineer</h3>
 
-- 👨🏽‍🎓 I’m pursuing computer science engineering From Bennett University, India
-
-- 🔭 I’m currently working as **Developer advocate** at **Appwrite**
+- 🔭 I’m currently working as a Developer advocate intern at **Appwrite**
 
 - 🌱 I’m currently learning **LLMs & NLP**
 
