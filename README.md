@@ -8,8 +8,11 @@
 - 📫 How to reach me **dakshiegoel@gmail.com**
 <br><br>
 <hr />
+<h3>
+  
+> `npx hi-dakshi` in your terminal?
 
-`npx hi-dakshi` in your terminal?
+</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dksie09&label=Profile%20views&color=d4b3df&style=flat-square" alt="dksie09" /> </p>
 <p align="left">
