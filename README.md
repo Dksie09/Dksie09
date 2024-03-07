@@ -22,7 +22,7 @@ npx hi-dakshi`
 ### Highlights
 
 > - Worked with folks [@appwrite](https://appwrite.io/)🌉
-> - **Blogs:** I love writing blogs. [Check it out](https://duckwhocodes.hashnode.dev/).
+> - I love writing blogs. [Check it out](https://duckwhocodes.hashnode.dev/).
 <br />
 
 <h2 align="center">🌐 About Me </h2>
