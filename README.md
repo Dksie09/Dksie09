@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently learning **Swift**.
 
-- 🤝 I’m looking to collaborate on making AI tools.
+- 🤝 I’m looking to collaborate on making **AI tools**.
 
-- 💕 I enjoy making beginner-friendly tech content.
+- 💕 I enjoy making beginner-friendly **tech content**.
 
 - 📫 How to reach me **dakshiegoel@gmail.com**
 
