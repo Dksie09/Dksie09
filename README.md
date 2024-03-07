@@ -15,7 +15,7 @@
 ##
 In your terminal:
 ```bash
-npx hi-dakshi`
+npx hi-dakshi
 ```
 
 ## 
