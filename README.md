@@ -45,14 +45,10 @@ I craft digital experiences with Next.js and TypeScript, and bring them to life 
 
 ---
 
+<h3 align="center">Meet my coding pet <a href="https://www.codedex.io/@dakshiegoel2481/30-nites-of-code">Dara</a></h3>
+
+<p align="center">
+  <img alt="dara" width="200px" src="https://www.codedex.io/api/petStatus?user=dakshiegoel2481&ct=g">
+</p>
 
 
-
-
-<h3 align="left"> Random Dev Meme 😂 </h3>
-<img align = "left" src='https://randommeme-five.vercel.app/' height = "280px"/>
-<h3 align="right">  Meet my coding pet <a href="https://www.codedex.io/@dakshiegoel2481/30-nites-of-code">Dara</a> </h3>
-
-
-
-<img align = "right" alt = coding man width = "200px" src="https://www.codedex.io/api/petStatus?user=dakshiegoel2481&ct=g">
