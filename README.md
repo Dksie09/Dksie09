@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Developer</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dksie09&label=Profile%20views&color=d4b3df&style=flat-square" alt="dksie09" /> </p>
-<img align = "right" alt = coding height = "480px" src="https://github.com/Dksie09/Dksie09/assets/91268240/c402184a-eafa-4707-b483-750354a98cde&ct=g">
+<img align = "right" alt = coding height = "460px" src="https://github.com/Dksie09/Dksie09/assets/91268240/c402184a-eafa-4707-b483-750354a98cde&ct=g">
 
 
 
