@@ -48,7 +48,7 @@ I craft digital experiences with Next.js and TypeScript, and bring them to life 
 
 ---
 
-<h3 align="center">Meet my coding pet <a href="https://www.codedex.io/@dakshiegoel2481/30-nites-of-code">Dara</a></h3>
+<h3 align="center">Meet my coding pet <a href="https://www.codedex.io/@duckwhocodes/30-nites-of-code">Dara</a></h3>
 
 <p align="center">
   <img alt="dara" width="200px" src="https://www.codedex.io/api/petStatus?user=duckwhocodes&ct=g">
