@@ -5,7 +5,7 @@
 <img align = "right" alt = coding height = "460px" src="https://github.com/Dksie09/Dksie09/assets/91268240/c402184a-eafa-4707-b483-750354a98cde&ct=g">
 
 
-
+- 👩🏻‍💼 Creator Relationship Manager [@codedamn](https://codedamn.com/)
 
 - 🔭 I’m currently learning **Swift**.
 
@@ -24,7 +24,7 @@ npx hi-dakshi
 ## 
 ### Highlights
 
-> - Worked with folks [@appwrite](https://appwrite.io/)🌉
+> - Worked with folks [@appwrite](https://appwrite.io/)
 > - I love writing blogs. [Check it out](https://duckwhocodes.hashnode.dev/).
 <br />
 
