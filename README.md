@@ -30,7 +30,7 @@ npx hi-dakshi
 
 <h2 align="left">🌐 About Me </h2>
 
-I have a knack of creating pretty websites and hunt and explore latest tech. Additionally, I love building AI tools that assist developers like me. Beyond code, I am all about communities, sharing knowledge and innovating together. Curious about what I do? Run npx hi-dakshi in your terminal to see a snippet of my world. If it sparks your interest, let's connect and explore how we can create something amazing together!
+I have a knack of creating pretty websites and explore latest tech. Additionally, I love building AI tools that assist developers like me. Beyond code, I am all about communities, sharing knowledge and innovating together. If it sparks your interest, let's connect and explore how we can create something amazing together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakshi-goel/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/duckwhocodes) 
 
