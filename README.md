@@ -7,7 +7,7 @@
 
 - 👩🏻‍💼 I'm a **scholar** [@Shefi](https://www.shefi.org/)
 
-- 🔭 I’m currently learning **Swift** &  **web3**.
+- 🚀 I’m currently building [@retroui](http://retroui.io/)
 
 - 🤝 I’m looking to collaborate on making **AI tools**.
 
