@@ -5,7 +5,7 @@
 <img align = "right" alt = coding height = "460px" src="https://github.com/Dksie09/Dksie09/assets/91268240/c402184a-eafa-4707-b483-750354a98cde&ct=g">
 
 
-- 👩🏻‍💼 I'm a **scholar** [@Shefi](https://www.shefi.org/)
+- 👩🏻‍💼 I'm a member of **summer fellowship** [@solana](https://summer.superteam.fun/)
 
 - 🚀 I’m currently building [@retroui](http://retroui.io/)
 
