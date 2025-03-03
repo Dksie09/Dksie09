@@ -9,9 +9,9 @@
 
 - 🚀 I’m currently building [@retroui](http://retroui.io/)
 
-- 🤝 I’m looking to collaborate on making **AI tools**.
+- 🤝 I’m looking to collaborate on making **AI Agents**.
 
-- 💕 I enjoy making beginner-friendly **tech content**.
+- 💕 I enjoy making **tech content** here and there.
 
 - 📫 How to reach me **dakshiegoel@gmail.com**
 
@@ -24,7 +24,7 @@ npx hi-dakshi
 ## 
 ### Highlights
 
-> - Worked with folks [@appwrite](https://appwrite.io/)
+> - Worked with folks [@appwrite](https://appwrite.io/) [@vorld](https://x.com/TheVorld)
 > - I love writing blogs. [Check it out](https://duckwhocodes.hashnode.dev/).
 <br />
 
